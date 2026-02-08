@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Deep Tech Sieve</title>
+    <link>https://b994yhr2vy-lab.github.io/podcast-feed/feed.xml</link>
+    <description>Curated podcast episodes and AI-generated paper summaries on volumetric displays, neural interfaces, neuromorphic computing, spatial computing, and related deep tech.</description>
+    <atom:link href="https://b994yhr2vy-lab.github.io/podcast-feed/feed.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Feb 2026 23:42:46 +0000</lastBuildDate>
+    <itunes:author>Deep Tech Sieve</itunes:author>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>[The Way Forward with Alec Zeck] Ep 183: Geoengineering: How Weather Is Manipulated, And How We Reclaim It with Dr. Rob Williams</title>
+      <description>Turn online alignment into an offline community — join us at TheWayFwrd.com to connect with like-minded people near you. It's the best way to support this podcast and the movement we're building together: https://thewayfwrd.com/join/
+ Dr. Rob Williams joins Alec for a conversation on the history and impact of geoengineering. He shares how his research into unusual cloud formations led to uncovering both ancient weather rituals and modern weather modification programs. They discuss the shift in p</description>
+      <guid isPermaLink="false">https://audio-delivery.cohostpodcasting.com/audio/d9b0eb4d-eb67-4bbf-8b45-23c3053a575a/episodes/01cf7de7-eefa-4fe0-922b-6691bdc7110f/episode.mp3</guid>
+      <enclosure url="https://audio-delivery.cohostpodcasting.com/audio/d9b0eb4d-eb67-4bbf-8b45-23c3053a575a/episodes/01cf7de7-eefa-4fe0-922b-6691bdc7110f/episode.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 15 Aug 2025 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Rob Has a Podcast | The Traitors, Survivor &amp; Reality TV - RHAP] Ask Dr. Christian Hubicki | Summer 2025</title>
+      <description>Ask Dr. Christian Hubicki | Summer 2025
+It’s that time of the year again: time to expand your mind with Dr. Christian Hubicki! In our ninth installment of the series, Rob Cesternino welcomes the Director of Optimal Robotics Lab, robotics professor, Survivor castaway, comptroller of slam-town and great friend of the podcast Dr. Christian Hubicki to respond to questions submitted by RHAP listeners.
+
+Head back in time to previous episodes of Ask Dr. Christian:
+
+
+Ask Dr. Christian Hubicki 9
+Ask Dr. </description>
+      <guid isPermaLink="false">https://media.blubrry.com/rob_has_a_podcast_survivor/www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/RHAPN3308688305.mp3</guid>
+      <enclosure url="https://media.blubrry.com/rob_has_a_podcast_survivor/www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/RHAPN3308688305.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 29 Aug 2025 23:00:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Daily AI, by AI] UCLA Engineers Achieve Breakthrough Non-Invasive Brain-Computer Interface</title>
+      <description>Your daily AI newsletter summary for September 03, 2025</description>
+      <guid isPermaLink="false">https://static.dailyaibyai.news/podcasts/ai-newsletter-2025-09-03.mp3</guid>
+      <enclosure url="https://static.dailyaibyai.news/podcasts/ai-newsletter-2025-09-03.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[The Peter Attia Drive] A new frontier in neurosurgery: restoring brain function with brain-computer interfaces, advancing glioblastoma care, and new hope for devastating brain diseases | Edward Chang, M.D.</title>
+      <description>View the Show Notes Page for This Episode
+  Become a Member to Receive Exclusive Content
+  Sign Up to Receive Peter's Weekly Newsletter
+ Edward Chang is a neurosurgeon, scientist, and a pioneering leader in functional neurosurgery and brain-computer interface technology, whose work spans the operating room, the research lab, and the engineering bench to restore speech and movement for patients who have lost these capabilities. In this episode, Edward explains the evolution of modern neurosurgery</description>
+      <guid isPermaLink="false">https://traffic.libsyn.com/secure/peterattiadrive/EP.363_-_Edward_C_FINAL.mp3?dest-id=713489</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/peterattiadrive/EP.363_-_Edward_C_FINAL.mp3?dest-id=713489" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 08 Sep 2025 04:15:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Huberman Lab] Enhance Your Learning Speed &amp; Health Using Neuroscience Based Protocols | Dr. Poppy Crum</title>
+      <description>My guest is Dr. Poppy Crum, PhD, adjunct professor at Stanford, former Chief Scientist at Dolby Laboratories and expert in neuroplasticity—our brain’s ability to change in response to experience. She explains how you can learn faster and ways to leverage your smartphone, AI and even video games to do so. We also discuss “digital twins” and the future of health technology. This episode will change the way you think about and use technology and will teach you zero-cost protocols to vastly improve </description>
+      <guid isPermaLink="false">https://traffic.megaphone.fm/SCIM3116912471.mp3?updated=1759729990</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM3116912471.mp3?updated=1759729990" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Sep 2025 08:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Paperleap podcast] OLEDs may be the key to holography</title>
+      <description>Researchers at the University of St Andrews have demonstrated that pairing OLEDs with metasurfaces and filters can project holographic images without the need for lasers. This compact, safe, and scalable approach could pave the way for everyday holographic displays in consumer devices.
+
+Read the full article at https://www.paperleap.com/blog/articles/oleds-may-be-the-key-to-holography-0cccyq</description>
+      <guid isPermaLink="false">https://api.spreaker.com/download/episode/67920431/download.mp3</guid>
+      <enclosure url="https://api.spreaker.com/download/episode/67920431/download.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Oct 2025 12:40:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Age Well Home and Lifestyle] The Science of Neuroaesthetics: Designing Homes, Lifestyles, and Environments for Aging Well</title>
+      <description>🧠✨ What if beauty itself could be medicine?
+
+
+In this solo episode of the Age Well Home &amp; Lifestyle Podcast, Kelly Bradley, licensed physical therapist, interior designer, and founder of Age Well Home &amp; Lifestyle, explores the fascinating science of neuroaesthetics—the study of how beauty, art, and design influence the brain, body, and aging process.
+
+
+You’ll discover how everything from color, light, and texture to architecture, sound, and nature directly impacts mood, stress, and longevity. Ke</description>
+      <guid isPermaLink="false">https://anchor.fm/s/1058dce70/podcast/play/109447734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-10%2F409046154-44100-2-d62adb27c2521.mp3</guid>
+      <enclosure url="https://anchor.fm/s/1058dce70/podcast/play/109447734/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-10%2F409046154-44100-2-d62adb27c2521.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Oct 2025 23:10:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Breakthrough Broadcast] Floating on Sound: The Physics Behind Acoustic Levitation</title>
+      <description>I’m Drew, and in this episode of Breakthrough Broadcast, we’re exploring a technology that looks like science fiction but is entirely real: acoustic levitation. Imagine droplets of water, tiny beads, or bits of plastic hovering in midair—no strings, no magnets, just sound. Using carefully arranged sound waves, scientists can suspend objects, move them, and even merge them together while they float.
+We’ll break down how it works, from the physics of standing waves to the invisible “nodes” that ho</description>
+      <guid isPermaLink="false">https://anchor.fm/s/105dc3c90/podcast/play/109535870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-11%2Fec394782-4dcf-6792-c830-33891366d6a3.mp3</guid>
+      <enclosure url="https://anchor.fm/s/105dc3c90/podcast/play/109535870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-9-11%2Fec394782-4dcf-6792-c830-33891366d6a3.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 11 Oct 2025 21:11:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Ancient Mysteries Unearthed] Sound Levitation Technology: Did the Ancients Know How To Use Advanced Sound Frequency Technology?</title>
+      <description>Ancient Mysteries Unearthed Podcast | Episode #10
+
+In this episode, Chris &amp; Brandon discuss the incredible technology knows as sound levitation. This is perhaps one of the ancient methods to move, cut, shape and potentially even melt rock. We look at modern uses of sound (acoustic) levitation as well as ancient accounts. Enjoy!
+
+ 
+
+Show Notes: - https://youtu.be/XpNbyfxxkWE 
+
+- https://youtu.be/ZqRA7m1KEGQ 
+
+- https://youtu.be/c05VSs3q56U 
+
+- https://youtu.be/4z4QdiqP-q8 
+
+- https://youtu.be/k02</description>
+      <guid isPermaLink="false">https://mcdn.podbean.com/mf/web/6ftfuiymh7yk6xmt/AMU_EP10_Sound_Levitation_Technology_Did_the_Ancients_Know_How_To_Use_Advanced_Sound_Frequency_Technology_b0p33.mp3</guid>
+      <enclosure url="https://mcdn.podbean.com/mf/web/6ftfuiymh7yk6xmt/AMU_EP10_Sound_Levitation_Technology_Did_the_Ancients_Know_How_To_Use_Advanced_Sound_Frequency_Technology_b0p33.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Oct 2025 15:02:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[This Week in Startups] Why We Need Ferries and Tugboats in Space w/ Orbital Operations | E2208</title>
+      <description>👉 Register here to join the kickoff: https://luma.com/cm0x90mk
+Today’s show:
+Just getting our stuff into orbit isn’t enough… Orbital Operations wants to help companies take things HIGHER.
+In today’s TWiST 500 interview, Alex chats with Ben Schleuniger, whose startup Orbital Operations is solving the complexity of space logistics. The advent of reusable rockets has made it easier and cheaper than ever for us to place objects in Low Earth Orbit (or LEO).
+But what if we want to reach higher orbits?</description>
+      <guid isPermaLink="false">https://anchor.fm/s/7c624c84/podcast/play/111098423/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-12%2F412369947-44100-2-b4b6a6c66f37f.mp3</guid>
+      <enclosure url="https://anchor.fm/s/7c624c84/podcast/play/111098423/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-12%2F412369947-44100-2-b4b6a6c66f37f.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 13 Nov 2025 01:27:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>[TimHeale9] Scud Hunters &amp; Desert Storm Chaos | SAS Int Cell, Fibre Optic Sabotage &amp; Survival | The Parallel Four</title>
+      <description>Send us a text
+Chapter Thirty-Two drops The Parallel Four deep into Operation Desert Storm — six weeks of hit-and-run raids, storm-soaked bivvies, and black humour on the edge of war. Behind enemy lines, Stephen and Johan keep their Unimog “The Beast” roaring through night moves, refuelling marathons, and firefights that turn routine into legend. From cutting fibre optic lines under fire to ambushing convoys and even destroying a mobile Scud launcher, they prove that courage often looks like cha</description>
+      <guid isPermaLink="false">https://www.buzzsprout.com/1118723/episodes/17910756-scud-hunters-desert-storm-chaos-sas-int-cell-fibre-optic-sabotage-survival-the-parallel-four.mp3</guid>
+      <enclosure url="https://www.buzzsprout.com/1118723/episodes/17910756-scud-hunters-desert-storm-chaos-sas-int-cell-fibre-optic-sabotage-survival-the-parallel-four.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 14 Nov 2025 07:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Plain English with Derek Thompson] Plain English BEST OF: How to Be Happy and the Science of Cognitive Time Travel</title>
+      <description>Throughout December and January, we’re going to be re-airing some of our favorite episodes of the past year and beyond. This list includes interviews that really stuck with me and some others that you guys had tons of feedback and thoughts on … including this one!
+
+“How to Be Happy and the Science of Cognitive Time Travel” originally aired August 9, 2024.
+
+If you have questions, observations, or ideas for future episodes, email us at PlainEnglish@Spotify.com.
+
+Host: Derek Thompson
+
+Guest: Laurie</description>
+      <guid isPermaLink="false">https://traffic.megaphone.fm/GLT8096745838.mp3?updated=1764638304</guid>
+      <enclosure url="https://traffic.megaphone.fm/GLT8096745838.mp3?updated=1764638304" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 02 Dec 2025 11:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[The Skeptics' Guide to the Universe] The Skeptics Guide #1065 - Dec 6 2025</title>
+      <description>News Items: Cognitive Legos, China's Planting Lots of Trees, Misinformation and Birth Control, Dark Matter Detection, Asteroid Bennu Ingredients for Life; Who's That Noisy; Your Questions and E-mails: Climate Denial, Calcium Cardiac Scans; Science or Fiction</description>
+      <guid isPermaLink="false">https://traffic.libsyn.com/secure/skepticsguide/skepticast2025-12-06.mp3</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/skepticsguide/skepticast2025-12-06.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Dec 2025 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Matt Beall Limitless] If They Weren't Tombs, What Were they? Geoffrey Drumm Provides the World's Best Explanation (P1/3)</title>
+      <description>For the first time ever, researcher and author Geoffrey Drummlays out his entire theory behind ancient stone structures in a single, comprehensive 9-hour documentary series.
+In Part 1 of 3, Drumm takes us deep into the origins of his groundbreaking work The Land of Chem, exploring how ancient civilizations may have used lightning, telluric currents, and Earth’s natural electrical systems as part of a vast, planet-wide infrastructure.
+ 
+This episode connects Avebury, the Giza Plateau, Neolithicst</description>
+      <guid isPermaLink="false">https://traffic.megaphone.fm/APO6332853582.mp3</guid>
+      <enclosure url="https://traffic.megaphone.fm/APO6332853582.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Dec 2025 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Urban Odyssey] 6G White Paper Breakdown Pt. 3: Terahertz Radiation &amp; The Bio-Digital Frontier</title>
+      <description>See the Full Post for Images &amp; Graphics + Downloads
+Urban's Reference Tables
+Additional Info:
+https://anab-whitehouse.com (Devil's Dictionary)https://grokipedia.com/page/Terahertzhttps://grokipedia.com/page/Terahertz_radiationhttps://grokipedia.com/page/Terahertz_time-domain_spectroscopyhttps://grokipedia.com/page/Terahertz_spectroscopy_and_technologyhttps://grokipedia.com/page/6Ghttps://grokipedia.com/page/Beam_steeringWelcome to Part 3 of our deep dive into the "6G and Beyond" academic white p</description>
+      <guid isPermaLink="false">https://anchor.fm/s/f58b2568/podcast/play/113210158/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-28%2F415121680-44100-2-7091016fed5d5.mp3</guid>
+      <enclosure url="https://anchor.fm/s/f58b2568/podcast/play/113210158/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-28%2F415121680-44100-2-7091016fed5d5.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Dec 2025 21:52:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Danny Jones Podcast] #359 - New Evidence CONFIRMS the Great Pyramids TRUE Purpose | Geoffrey Drumm</title>
+      <description>Watch every episode ad-free &amp; uncensored on Patreon: https://patreon.com/dannyjones
+
+Geoffrey Drumm is a researcher who runs ‪ @thelandofchem  YouTube channel and presents a comprehensive theory that the Egyptian Pyramids were designed to produce chemicals on an industrial scale for agriculture, metallurgy &amp; fuel production. 
+
+
+
+SPONSORS
+
+https://expressvpn.com/dannyjones - Get up to FOUR extra months free.
+
+https://hexclad.com/danny - Get up to 50% off during the holiday sale.
+
+https://irestore</description>
+      <guid isPermaLink="false">https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2791536364.mp3?updated=1767029581</guid>
+      <enclosure url="https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD2791536364.mp3?updated=1767029581" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Dec 2025 17:54:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Business of Design® | Grow a Profitable Interior Design Business with Kimberley Seldon] EP 462 | Neuro-Aesthetics: How the Brain Shapes Client Decisions in Interior Design with Martha Lowry</title>
+      <description>Interior designers often find themselves defending beautiful, well-considered ideas to hesitant clients. But what if that hesitation isn’t resistance—it’s biology? In this episode, Kimberley Seldon speaks with designer and BOD™ Member, Martha Lowry about neuro-aesthetics and how the brain responds to space long before logic or language catch up.
+
+This conversation reframes how designers understand client reactions, decision-making, and emotional buy-in. You’ll learn why a room can be technically</description>
+      <guid isPermaLink="false">https://feeds.soundcloud.com/stream/2230872938-businessofdesign-ep-462-neuro-aesthetics-in-interior-design-with-martha-lowry.mp3</guid>
+      <enclosure url="https://feeds.soundcloud.com/stream/2230872938-businessofdesign-ep-462-neuro-aesthetics-in-interior-design-with-martha-lowry.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Urban Odyssey] 6G Radio Front-Ends: Reconfigurable Transceivers &amp; Terahertz (White Paper Pt. 7)</title>
+      <description>Read the Full Substack Post &amp; Download the Resources
+Image Word Definitions
+Dictionary of Words Tables
+Current hardware can't handle the "All-Spectrum" vision of 6G. In Part 7 of our 6G White Paper Breakdown, we explore Section 7: 6G Radio Reconfigurable Transceiver Front-Ends. This section proposes "transformative solutions" that move beyond standard CMOS technology into the realm of metamaterials, NEMS (Nano-Electro-Mechanical Systems), and "origami antennas" that physically change shape to st</description>
+      <guid isPermaLink="false">https://anchor.fm/s/f58b2568/podcast/play/113563834/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-6%2F415565109-44100-2-4400df8901f83.mp3</guid>
+      <enclosure url="https://anchor.fm/s/f58b2568/podcast/play/113563834/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-6%2F415565109-44100-2-4400df8901f83.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 06 Jan 2026 06:01:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Futur-ish] 011: How Banning Architecture Might Mean more Buildings for Your Brain</title>
+      <description>Somewhere, in a Trump administration office, someone decided that architects aren’t all that and now they’re being de-professionalised and removed from public debate. At the same time, more and more research is telling us that architecture happens inside your head and we need to design that way. 
+But what does this have to do with World War 2 battleships and the state of education? Radha thinks that the banning of architects from public discourse gives us an opportunity to reimagine what ways, f</description>
+      <guid isPermaLink="false">https://anchor.fm/s/fcf14904/podcast/play/112606672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-14%2F414350104-44100-2-546cc55eb531c.mp3</guid>
+      <enclosure url="https://anchor.fm/s/fcf14904/podcast/play/112606672/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-14%2F414350104-44100-2-546cc55eb531c.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 08 Jan 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Waveform: The MKBHD Podcast] CES 2026 Actually Has Some Bangers?</title>
+      <description>We're back! After a nice long holiday break we're back with 2.5 hours of complete chaos. We start off with a few quick updates before getting into everything from the new Pickle AR glasses that were announced to holograms and the Clicks communicators. Then we make our predictions for what we think is going to happen this. Enjoy!
+
+
+
+Shop the merch:
+
+https://shop.mkbhd.com
+
+
+
+Links:
+
+9to5Google - Pixel at a glance toggle off
+
+Notebookcheck - Zenfone is no more
+
+Pickle Glasses
+
+Verge - Lego smart b</description>
+      <guid isPermaLink="false">https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/VMP4205137164.mp3?updated=1767966976</guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/VMP4205137164.mp3?updated=1767966976" length="0" type="audio/mpeg"/>
+      <pubDate>Fri, 09 Jan 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[The Carmen Murray Show - Conscious LeadHERS] S03 #165 The Future of Organoid Intelligence</title>
+      <description>Can brain cells fix the AI energy crisis?
+
+
+
+AI is devouring the planet’s energy, but what if the solution isn’t silicon… its biology? In this episode, Carmen Murray explores Organoid Intelligence, computers grown from living brain cells that could revolutionize energy efficiency, reshape AI, and redefine what “intelligence” means.
+
+
+
+Discover how science is blurring the line between life and technology, and why it might just be the key to a sustainable digital future. website · podcast studio ·</description>
+      <guid isPermaLink="false">https://dl.iono.fm/epi/prov_1036/epi_1634028_medium.m4a?p=rss</guid>
+      <enclosure url="https://dl.iono.fm/epi/prov_1036/epi_1634028_medium.m4a?p=rss" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 12 Jan 2026 08:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[632nm] Snell's Law, Metasurfaces, and Metalenses  | Federico Capasso</title>
+      <description>How can flat surfaces shape light as powerfully as bulky lenses?
+In this episode, we speak with Federico Capasso, Harvard physicist and pioneer of metasurfaces, metalenses, and nanophotonics. Capasso traces the path from his work at Bell Labs on quantum cascade lasers to the invention of metasurface optics, showing how a practical challenge—collimating light without traditional lenses—sparked a new way to control light.
+We explore the physics behind metasurfaces and generalized Snell’s law, expl</description>
+      <guid isPermaLink="false">https://media.transistor.fm/7ded1989/94bdf9e2.mp3</guid>
+      <enclosure url="https://media.transistor.fm/7ded1989/94bdf9e2.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 20 Jan 2026 16:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[D&amp;D Minus] D&amp;D Minus Episode 104: Now You T V</title>
+      <description>Our heroes have one last hurdle to make it into TV Land: a car chase with obviously legit physics.
+ Music by Anna Bosnick.
+ Support us on Patreon!</description>
+      <guid isPermaLink="false">https://traffic.libsyn.com/secure/danddminus/DND_Minus_Ep104_Regular.mp3?dest-id=1844459</guid>
+      <enclosure url="https://traffic.libsyn.com/secure/danddminus/DND_Minus_Ep104_Regular.mp3?dest-id=1844459" length="0" type="audio/mpeg"/>
+      <pubDate>Thu, 22 Jan 2026 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Explain It to Me] Battling brain rot</title>
+      <description>Bland colors, AI summaries, and declining literacy rates have lots of us worried that we’re losing our intelligence to the modern world. Can we get it back?
+
+This episode was produced by Ariana Aspuru, edited by Jenny Lawton, fact-checked by Melissa Hirsch, engineered by Patrick Boyd, and hosted by Jonquilyn Hill. Photo By BSIP/UIG Via Getty Images. 
+
+If you have a question, give us a call on 1-800-618-8545 or send us a note here. 
+
+Listen to Explain It to Me ad-free by becoming a Vox Member: vo</description>
+      <guid isPermaLink="false">https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/VMP7083687113.mp3?updated=1769196627</guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/VMP7083687113.mp3?updated=1769196627" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Today, Explained] Battling brain rot</title>
+      <description>Bland colors, AI summaries, and declining literacy rates have lots of us worried that we’re losing our intelligence to the modern world. Can we get it back?
+
+This episode was produced by Ariana Aspuru, edited by Jenny Lawton, fact-checked by Melissa Hirsch, engineered by Patrick Boyd, and hosted by Jonquilyn Hill. Photo By BSIP/UIG Via Getty Images. 
+
+If you have a question, give us a call on 1-800-618-8545 or send us a note here. 
+
+Listen to Explain It to Me ad-free by becoming a Vox Member: vo</description>
+      <guid isPermaLink="false">https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/VMP7317730283.mp3?updated=1769196709</guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/traffic.megaphone.fm/VMP7317730283.mp3?updated=1769196709" length="0" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jan 2026 13:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Huberman Lab] Science &amp; Tools of Learning &amp; Memory | Dr. David Eagleman</title>
+      <description>Dr. David Eagleman, PhD, is a neuroscientist, bestselling author and professor at Stanford University. We discuss how to leverage the science of neuroplasticity to learn new skills and information and how accurate and false memories form and are forgotten. We also discuss time perception and why it speeds up or slows down depending on our age and stress level. We cover dreaming and the meaning of visual and other dream content. And we discuss the neuroscience of cultural and political polarizati</description>
+      <guid isPermaLink="false">https://traffic.megaphone.fm/SCIM5564931565.mp3?updated=1769405666</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM5564931565.mp3?updated=1769405666" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 26 Jan 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Huberman Lab] How Dopamine &amp; Serotonin Shape Decisions, Motivation &amp; Learning | Dr. Read Montague</title>
+      <description>Dr. Read Montague, PhD, is a professor and director of the Center for Human Neuroscience Research at Virginia Tech’s Fralin Biomedical Research Institute and an expert in how dopamine and serotonin shape human learning, motivation and decision-making. We discuss how they impact focused effort in the context of short- and long-term goals of all kinds. Also, how SSRIs and low-effort, high-engagement activities reduce the rewarding properties of dopamine, and how AI algorithms are revolutionizing u</description>
+      <guid isPermaLink="false">https://traffic.megaphone.fm/SCIM3970994914.mp3</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM3970994914.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[The Retirement Wisdom Podcast] Art Cure: The Science of How the Arts Save Lives - Daisy Fancourt</title>
+      <description>What if creativity works like medicine? New research shows that regular engagement with the arts can slow biological aging, protect the brain, reduce stress, and promote a new sense of purpose, identity and meaning—especially in retirement. This episode reframes art as one of the most powerful, underused tools for healthy aging. Our guest today, Dr. Daisy Fancourt, is a leading researcher on the health impacts of arts engagement and the author of the new book Art Cure:The Science of How the Arts</description>
+      <guid isPermaLink="false">https://media.blubrry.com/theretirementconversation/media.blubrry.com/theretirementconversation/content.blubrry.com/theretirementconversation/Art_Cure-The_Science_of_How_the_Arts_Save_Lives_Daisy_Fancourt.mp3</guid>
+      <enclosure url="https://media.blubrry.com/theretirementconversation/media.blubrry.com/theretirementconversation/content.blubrry.com/theretirementconversation/Art_Cure-The_Science_of_How_the_Arts_Save_Lives_Daisy_Fancourt.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Mon, 02 Feb 2026 11:17:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Know Thyself] E181 - Joscha Bach: A Cognitive Scientist’s Guide to Consciousness &amp; The Illusion of Reality</title>
+      <description>Joscha Bach explores the nature of consciousness, free will, and reality through the lens of computation, cognitive science, and philosophy. Rather than treating the mind as a mystical entity, Joscha frames consciousness as a constructed dream—a model generated by the brain to make sense of the world and coordinate behavior.
+
+We examine why beliefs should remain provisional, how the self functions as a useful fiction, and why suffering emerges when internal learning signals misfire. Joscha expla</description>
+      <guid isPermaLink="false">https://traffic.megaphone.fm/APO2424512768.mp3</guid>
+      <enclosure url="https://traffic.megaphone.fm/APO2424512768.mp3" length="0" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Feb 2026 14:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Paper Summary: 2512.09401v1</title>
+      <description>AI-generated podcast from arXiv paper.</description>
+      <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2512.09401v1.mp3</guid>
+      <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2512.09401v1.mp3" length="5083680" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Feb 2026 23:42:46 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
