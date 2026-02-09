@@ -1,16 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Deep Tech Sieve</title>
+    <title>Immersive + Emerging Tech + Science Podcasts</title>
     <link>https://b994yhr2vy-lab.github.io/podcast-feed/feed.xml</link>
     <description>Curated podcast episodes and AI-generated paper summaries on volumetric displays, neural interfaces, neuromorphic computing, spatial computing, and related deep tech.</description>
     <atom:link href="https://b994yhr2vy-lab.github.io/podcast-feed/feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Feb 2026 23:42:46 +0000</lastBuildDate>
-    <itunes:author>Deep Tech Sieve</itunes:author>
+    <lastBuildDate>Mon, 09 Feb 2026 00:29:24 +0000</lastBuildDate>
+    <itunes:author>Immersive + Emerging Tech + Science Podcasts</itunes:author>
     <itunes:category text="Technology"/>
+    <itunes:image href="https://b994yhr2vy-lab.github.io/podcast-feed/cover.png"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
       <title>[The Way Forward with Alec Zeck] Ep 183: Geoengineering: How Weather Is Manipulated, And How We Reclaim It with Dr. Rob Williams</title>
@@ -335,7 +336,7 @@ We examine why beliefs should remain provisional, how the self functions as a us
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2512.09401v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2512.09401v1.mp3" length="5083680" type="audio/mpeg"/>
-      <pubDate>Sun, 08 Feb 2026 23:42:46 +0000</pubDate>
+      <pubDate>Mon, 09 Feb 2026 00:29:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
