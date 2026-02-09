@@ -1,0 +1,57 @@
+Alex: Welcome to this week's episode of Science Uncovered, where we delve into the latest research in physics and chemistry. Today, we're going to talk about a fascinating paper that explores the properties of single molecule toroics, or SMTs. Joining me is expert Sam, who has a deep understanding of this topic. Welcome to the show, Sam.
+
+Sam: Thanks for having me, Alex. I'm excited to discuss this research with you and our listeners.
+
+Alex: So, let's start with the basics. What are single molecule toroics, and why are they important?
+
+Sam: Single molecule toroics are a class of molecules that exhibit magnetic vortices known as toroidal moments. These moments have both magnetic and electric dipole symmetries, which makes them interesting for various applications, including spin control and the development of robust qubits.
+
+Alex: That sounds like a mouthful. Can you break it down for us? What exactly is a toroidal moment?
+
+Sam: A toroidal moment is a type of magnetic moment that arises from the circulation of electric current within a molecule. Imagine a ring-shaped molecule with atomic spins and orbital currents that generate a magnetic vortex. This vortex is the toroidal moment, and it's a unique property of these molecules.
+
+Alex: I see. And what makes single molecule toroics so special?
+
+Sam: Well, SMTs have the potential to enable spin control via magnetoelectric effects, which means that we can manipulate the spin of electrons using electric fields. This is a highly desirable property for various applications, including quantum computing and data storage.
+
+Alex: That's really cool. Now, let's talk about the specific molecule that was studied in this paper. It's called Fe$_{10}$Dy$_{10}$, which is an icosanuclear molecular ring. What can you tell us about this molecule?
+
+Sam: The Fe$_{10}$Dy$_{10}$ molecule is a large ring-shaped molecule composed of 10 iron atoms and 10 dysprosium atoms. This molecule is interesting because it exhibits toroidal excitations of unprecedented magnitude and energy dispersion, which spans a huge dimensional space.
+
+Alex: Wow, that sounds like a really complex system. How did the researchers study this molecule?
+
+Sam: The researchers used a combination of experimental and theoretical techniques to study the Fe$_{10}$Dy$_{10}$ molecule. They used an ab initio-parameterised transfer matrix approach to model the properties of the molecule, which yielded excellent agreement with experiments.
+
+Alex: I'm impressed by the level of detail in this research. What did the researchers find out about the toroidal moment in this molecule?
+
+Sam: The researchers found that the Fe$_{10}$Dy$_{10}$ molecule exhibits a significant finite-temperature ground state toroidal polarization, which means that the molecule has a net toroidal moment even at room temperature. This is a really important finding because it suggests that the toroidal moment could be directly observed and manipulated using experimental techniques.
+
+Alex: That's exciting. How could this be done?
+
+Sam: One way to observe the toroidal moment is by using spatially-focused magnetic field curls, which can be generated using focused femtosecond laser pulses. By applying a small non-vanishing curl to the magnetic field, researchers can induce a toroidal polarization in the molecule, which could be detected experimentally.
+
+Alex: I see. And what about the concept of molar toroidal susceptibility? How does that fit into this research?
+
+Sam: The molar toroidal susceptibility, denoted by $ξ$, is a thermodynamic linear response function that measures the finite-temperature toroidal polarization induced by a magnetic field with a small non-vanishing curl. In other words, it's a measure of how sensitive the molecule is to changes in the magnetic field.
+
+Alex: That makes sense. And what did the researchers find out about the molar toroidal susceptibility of Fe$_{10}$Dy$_{10}$?
+
+Sam: The researchers found that the molar toroidal susceptibility of Fe$_{10}$Dy$_{10}$ is significant, which means that the molecule exhibits a strong response to changes in the magnetic field. This suggests that the toroidal moment could be directly observed and manipulated using experimental techniques.
+
+Alex: Well, it's clear that this research has the potential to pave the way for new discoveries in the field of single molecule toroics. What are some of the potential applications of this research?
+
+Sam: The potential applications are vast. For example, SMTs could be used to develop robust qubits for quantum computing, or to create new types of data storage devices. Additionally, the ability to manipulate the spin of electrons using electric fields could have significant implications for spintronics and other areas of materials science.
+
+Alex: That's really exciting. As we wrap up this episode, I want to thank you, Sam, for sharing your expertise with us today.
+
+Sam: Thanks for having me, Alex. It was a pleasure to discuss this fascinating research with you and our listeners.
+
+Alex: And to our listeners, thanks for tuning in to this week's episode of Science Uncovered. Join us next time as we explore more exciting topics in physics and chemistry.
+
+Sam: Don't forget to check out the research paper for yourself, which is available online. It's a fascinating read, and it provides a lot more detail about the experiments and theoretical models used in this study.
+
+Alex: Great point, Sam. We'll also provide a link to the paper on our website, so be sure to check that out if you're interested in learning more.
+
+Sam: And finally, I want to emphasize the significance of this research. The discovery of giant molecular toroidal moments amenable to direct observation has the potential to revolutionize our understanding of single molecule toroics and their applications.
+
+Alex: Well, that's all for today. Thanks again to Sam for joining me on this episode, and thanks to our listeners for tuning in. Until next time, goodbye!
