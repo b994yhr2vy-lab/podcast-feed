@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Feb 2026 16:22:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 16:21:03 +0000</lastBuildDate>
     <itunes:author>Immersive + Emerging Tech + Science Podcasts</itunes:author>
     <itunes:category text="Technology"/>
     <itunes:image href="https://b994yhr2vy-lab.github.io/podcast-feed/cover.png"/>
@@ -304,8 +304,8 @@ Listen to Explain It to Me ad-free by becoming a Vox Member: vo</description>
     <item>
       <title>[Huberman Lab] How Dopamine &amp; Serotonin Shape Decisions, Motivation &amp; Learning | Dr. Read Montague</title>
       <description>Dr. Read Montague, PhD, is a professor and director of the Center for Human Neuroscience Research at Virginia Tech’s Fralin Biomedical Research Institute and an expert in how dopamine and serotonin shape human learning, motivation and decision-making. We discuss how they impact focused effort in the context of short- and long-term goals of all kinds. Also, how SSRIs and low-effort, high-engagement activities reduce the rewarding properties of dopamine, and how AI algorithms are revolutionizing u</description>
-      <guid isPermaLink="false">https://traffic.megaphone.fm/SCIM3970994914.mp3</guid>
-      <enclosure url="https://traffic.megaphone.fm/SCIM3970994914.mp3" length="0" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://traffic.megaphone.fm/SCIM3970994914.mp3?updated=1770860396</guid>
+      <enclosure url="https://traffic.megaphone.fm/SCIM3970994914.mp3?updated=1770860396" length="0" type="audio/mpeg"/>
       <pubDate>Mon, 02 Feb 2026 09:00:00 +0000</pubDate>
     </item>
     <item>
@@ -322,238 +322,252 @@ We examine why beliefs should remain provisional, how the self functions as a us
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2508.13199v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2508.13199v1.mp3" length="8747510" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2509.05424v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2509.05424v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2509.05424v1.mp3" length="10407644" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2509.19351v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2509.19351v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2509.19351v1.mp3" length="6267758" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2509.23896v2</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2509.23896v2.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2509.23896v2.mp3" length="5936317" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2510.17649v2</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2510.17649v2.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2510.17649v2.mp3" length="4315471" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2512.09401v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2512.09401v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2512.09401v1.mp3" length="4796124" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2512.17978v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2512.17978v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2512.17978v1.mp3" length="5103324" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2512.22752v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2512.22752v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2512.22752v1.mp3" length="4801558" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2512.24060v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2512.24060v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2512.24060v1.mp3" length="3799292" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2601.00043v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.00043v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.00043v1.mp3" length="4588398" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2601.01221v2</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.01221v2.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.01221v2.mp3" length="5695990" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2601.04595v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.04595v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.04595v1.mp3" length="5545525" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2601.06195v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.06195v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.06195v1.mp3" length="5978531" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2601.06227v2</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.06227v2.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.06227v2.mp3" length="5368310" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2601.08954v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.08954v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.08954v1.mp3" length="6523132" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2601.18032v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.18032v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.18032v1.mp3" length="4712950" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2601.21382v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.21382v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.21382v1.mp3" length="4532810" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2601.21965v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.21965v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.21965v1.mp3" length="4871357" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2601.22233v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.22233v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2601.22233v1.mp3" length="4651928" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.03435v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.03435v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.03435v1.mp3" length="4815350" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.03700v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.03700v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.03700v1.mp3" length="4555798" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.04012v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.04012v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.04012v1.mp3" length="7092810" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.04411v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.04411v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.04411v1.mp3" length="7023011" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.04619v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.04619v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.04619v1.mp3" length="6691151" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.04787v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.04787v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.04787v1.mp3" length="5347830" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.06029v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.06029v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.06029v1.mp3" length="7853078" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.06067v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.06067v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.06067v1.mp3" length="4190083" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.06296v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.06296v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.06296v1.mp3" length="5076157" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.06990v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.06990v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.06990v1.mp3" length="4953277" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.06997v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.06997v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.06997v1.mp3" length="4260718" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.07697v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.07697v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.07697v1.mp3" length="6429091" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.08285v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.08285v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.08285v1.mp3" length="5114191" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.08963v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.08963v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.08963v1.mp3" length="4412438" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
     <item>
       <title>AI Paper Summary: 2602.09695v1</title>
       <description>AI-generated podcast from arXiv paper.</description>
       <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.09695v1.mp3</guid>
       <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.09695v1.mp3" length="4360611" type="audio/mpeg"/>
-      <pubDate>Wed, 11 Feb 2026 16:22:50 +0000</pubDate>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Paper Summary: 2602.10552v1</title>
+      <description>AI-generated podcast from arXiv paper.</description>
+      <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.10552v1.mp3</guid>
+      <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.10552v1.mp3" length="6008624" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI Paper Summary: 2602.10614v1</title>
+      <description>AI-generated podcast from arXiv paper.</description>
+      <guid isPermaLink="false">https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.10614v1.mp3</guid>
+      <enclosure url="https://b994yhr2vy-lab.github.io/podcast-feed/episodes/2602.10614v1.mp3" length="5318991" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Feb 2026 16:21:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
