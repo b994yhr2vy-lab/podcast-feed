@@ -1,0 +1,39 @@
+Alex: So, this paper by Leutenegger explores whether the relationship between learning rules and brain alignment holds true across different species, specifically humans and macaques. What's the background on this?
+
+Sam: The authors previously found that untrained convolutional neural networks (CNNs) matched backpropagation at human V1, which is a part of the visual cortex. Now they're testing five learning rules - backpropagation, feedback alignment, predictive coding, spike-timing-dependent plasticity, and an untrained random-weights baseline - against macaque electrophysiology data.
+
+Alex: That's interesting. What kind of data are they using from the macaques?
+
+Sam: They have two datasets: one from Majaj and Hong (2015) with 3,200 stimulus presentations across 88 neurons in V4/IT, and another from Freeman and Ziemba (2013) with 135 stimuli across 102 neurons in V1/V2. They're using Representational Similarity Analysis (RSA) to compare the neural activity patterns.
+
+Alex: And they're using identical model weights from their human study, right? What did they find?
+
+Sam: Yes, that's correct. They found that all models achieve higher alignment with macaque early visual cortex - V1/V2 - than with human fMRI data. The correlation coefficients are around 0.15-0.30 for macaques, compared to 0.01-0.08 for humans.
+
+Alex: That makes sense given the higher signal-to-noise ratio of electrophysiology data. What about the specific learning rules - did any stand out in terms of alignment?
+
+Sam: Yes, STDP and predictive coding produced the highest macaque V1/V2 alignment, with correlation coefficients around 0.30 and 0.28 respectively. This is consistent with their performance in human V1.
+
+Alex: And what about higher areas, like IT? Did they find any consistency across species?
+
+Sam: Actually, no - the learning rule rankings at IT showed no detectable correlation across species. However, this null result isn't entirely surprising given the small number of rules tested (n=5) and differences in stimulus sets.
+
+Alex: That's a good point. It's also worth noting that they used a pretrained ResNet-50 model as a comparison, right?
+
+Sam: Yes, and it achieved a correlation coefficient of 0.25 at macaque IT, which is substantially higher than all the custom CNN conditions. This suggests that alignment at IT is limited more by model capacity and training data rather than the learning rule itself.
+
+Alex: That's a key takeaway - early visual alignment seems to be robust across species, but higher-area alignment is more dependent on factors like model capacity and stimulus domain.
+
+Sam: Exactly. And they also controlled for noise ceilings, multi-seed variability, and performed a stimulus-control analysis to ensure their results are robust.
+
+Alex: What do you think the implications of this study are? Does it tell us anything new about how learning rules relate to brain function?
+
+Sam: Well, it reinforces the idea that early visual processing is relatively conserved across species, but higher-level areas may be more specialized or sensitive to specific stimuli and learning contexts. It also highlights the importance of considering model capacity and training data when interpreting neural alignment results.
+
+Alex: And what about future directions - are there any obvious next steps for this line of research?
+
+Sam: One potential direction could be to explore other species or brain areas, or to test more diverse sets of learning rules and models. It would also be interesting to see how these findings relate to behavioral or cognitive outcomes, rather than just neural alignment.
+
+Alex: That's a good point - understanding the functional significance of these alignments is crucial for translating this research into real-world applications.
+
+Sam: Absolutely. And it's also worth considering how these results might inform the development of more biologically-inspired machine learning models, or vice versa - using machine learning to better understand brain function.
